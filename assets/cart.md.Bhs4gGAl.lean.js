@@ -1,0 +1,1 @@
+import{_ as t,o as h,c as i,ai as a,aj as c}from"./chunks/framework.D7xYvDT7.js";const d=JSON.parse('{"title":"Giỏ hàng","description":"","frontmatter":{},"headers":[],"relativePath":"cart.md","filePath":"cart.md"}'),g={name:"cart.md"};function e(o,n,s,r,l,p){return h(),i("div",null,[...n[0]||(n[0]=[a("",9)])])}const _=t(g,[["render",e]]);export{d as __pageData,_ as default};
